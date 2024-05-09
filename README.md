@@ -6,6 +6,7 @@
 
  [![aviralgarg05's GitHub | Stats](https://stats.quine.sh/aviralgarg05/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aviralgarg05)
 
+ [![aviralgarg05's GitHub | Topics Over Time](https://stats.quine.sh/aviralgarg05/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aviralgarg05)
 
  [![aviralgarg05's GitHub | Dependencies](https://stats.quine.sh/aviralgarg05/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aviralgarg05)
 
