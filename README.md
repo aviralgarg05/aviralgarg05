@@ -5,7 +5,10 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aviral-garg-b7b053280) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/aviralgarg39805)
-[![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?logo=devdotto&logoColor=white)](https://dev.to/aviralgarg05)
+<a href="https://dev.to/aviralgarg05">
+  <img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?logo=devdotto&logoColor=white" alt="Dev.to" style="width:150px; height:auto;">
+</a>
+
 
 
 
