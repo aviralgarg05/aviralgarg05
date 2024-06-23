@@ -1,5 +1,5 @@
 # 💫 About Me:
--🔭 I’m currently working on- Machine Learning Projects<br>-👯 I’m looking to collaborate on- Open Source Projects<br>-🌱 I’m currently learning- Advanced Machine Learning<br>-🌐Connect me- gargaviral99@gmail.com<br> -Access my portfolio here **🔗[My Portfolio](https://mdamiruddin-3dportfolio.vercel.app)**
+-🔭 I’m currently working on- Machine Learning Projects<br>-👯 I’m looking to collaborate on- Open Source Projects<br>-🌱 I’m currently learning- Advanced Machine Learning<br>-🌐Connect me- gargaviral99@gmail.com<br> -🔗Access my portfolio here **[My Portfolio](https://mdamiruddin-3dportfolio.vercel.app)**
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/aviral-garg-b7b053280">
