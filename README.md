@@ -1,6 +1,6 @@
 # 💫 About Me:
 -🔭 I’m currently working on- Machine Learning Projects<br>-👯 I’m looking to collaborate on- Open Source Projects<br>-🌱 I’m currently learning- Advanced Machine Learning<br>-🌐Connect me- gargaviral99@gmail.com<br> -🔗Access my portfolio here **[My Portfolio](https://aviralgarg-github-io.vercel.app/)**
-
+ 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/aviral-garg-b7b053280">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="width:100px; height:auto;">
