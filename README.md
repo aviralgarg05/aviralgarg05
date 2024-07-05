@@ -30,8 +30,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aviralgarg05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=aviralgarg05&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=aviralgarg05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=aviralgarg05&theme=dark&hide_border=false)
 [![aviralgarg05's GitHub | Topics Over Time](https://stats.quira.sh/aviralgarg05/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=aviralgarg05)
 [![aviralgarg05's GitHub | Dependencies](https://stats.quine.sh/aviralgarg05/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aviralgarg05)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aviralgarg05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
