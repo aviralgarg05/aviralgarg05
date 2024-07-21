@@ -1,4 +1,13 @@
-# 💫 About Me:
+<h2 align="center">
+    Hi There
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+    I'm Aviral!
+</h2>
+
+# 💫 About Me: 
 
 -🔭 I’m currently working on- Machine Learning Projects<br>-👯 I’m looking to collaborate on- Open Source Projects<br>-🌱 I’m currently learning- Advanced Machine Learning<br>-🌐Connect me- gargaviral99@gmail.com<br> -🔗Access my portfolio here **[My Portfolio](https://aviralgarg-github-io.vercel.app/)**
  
