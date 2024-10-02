@@ -37,19 +37,22 @@
 <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=aviralgarg05&theme=onedark)](https://github.com/aviralgarg05/github-profile-trophy)
+
 <!-- Section Divider -->
-<hr style="border: 1px solid #007FFF;" />
+# 📊 GitHub Stats:
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=aviralgarg05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=aviralgarg05&theme=dark&hide_border=false)
-[![aviralgarg05's GitHub | Topics Over Time](https://stats.quira.sh/aviralgarg05/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=aviralgarg05)
-[![aviralgarg05's GitHub | Dependencies](https://stats.quine.sh/aviralgarg05/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aviralgarg05)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aviralgarg05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aviralgarg05&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aviralgarg05&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aviralgarg05&theme=tokyonight">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aviralgarg05&theme=dark">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aviralgarg05&theme=tokyonight&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=aviralgarg05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=aviralgarg05&theme=radical">
+</div><br>
 
-
-
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=aviralgarg05&icon=0&color=0)](https://visitcount.itsvg.in)
 
