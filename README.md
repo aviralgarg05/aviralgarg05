@@ -51,7 +51,10 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aviralgarg05&theme=tokyonight&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=aviralgarg05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=aviralgarg05&theme=radical">
-</div><br>
+
+[![Aviral Garg's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=aviralgarg05&theme=tokyonight)
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aviralgarg05&icon=0&color=0)](https://visitcount.itsvg.in)
