@@ -52,7 +52,7 @@
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=aviralgarg05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=aviralgarg05&theme=radical">
 
-[![Aviral Garg's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=aviralgarg05&theme=tokyonight)
+![Aviral Garg's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=aviralgarg05&theme=tokyonight)
 
 </div>
 
