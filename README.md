@@ -7,10 +7,13 @@
     <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" />
 </h2>
 
-
 # 💫 About Me: 
 
--🔭 I’m currently working on- Machine Learning Projects<br>-👯 I’m looking to collaborate on- Open Source Projects<br>-🌱 I’m currently learning- Advanced Machine Learning<br>-🌐Connect me- gargaviral99@gmail.com<br> -🔗Access my portfolio here **[My Portfolio](https://aviralgarg-github-io.vercel.app/)**
+-🔭 I’m currently working on- Machine Learning Projects<br>
+-👯 I’m looking to collaborate on- Open Source Projects<br>
+-🌱 I’m currently learning- Advanced Machine Learning<br>
+-🌐Connect me- gargaviral99@gmail.com<br> 
+-🔗Access my portfolio here **[My Portfolio](https://aviralgarg-github-io.vercel.app/)**
  
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/aviral-garg-b7b053280">
