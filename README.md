@@ -40,6 +40,10 @@
 <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
+# Holopin Badges
+
+[![An image of @aviralgarg05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aviralgarg05)](https://holopin.io/@aviralgarg05)
+
 # 📊 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=aviralgarg05&theme=onedark)](https://github.com/aviralgarg05/github-profile-trophy)
 
