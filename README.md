@@ -11,7 +11,7 @@
 
 -🔭 I’m currently working on- Machine Learning Projects<br>
 -👯 I’m looking to collaborate on- Open Source Projects<br>
--🌱 I’m currently learning- Advanced Machine Learning<br>
+-🌱 I’m currently learning- Advanced Machine Learning and Deep Learning<br>
 -🌐Connect me- gargaviral99@gmail.com<br> 
 -🔗Access my portfolio here **[My Portfolio](https://aviralgarg-github-io.vercel.app/)**
  
