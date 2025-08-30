@@ -57,7 +57,7 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aviralgarg05&theme=dark">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aviralgarg05&theme=tokyonight&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=aviralgarg05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aviralgarg05&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aviralgarg05&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 
 ![Aviral Garg's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=aviralgarg05&theme=tokyonight)
 
