@@ -38,30 +38,18 @@
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=python,typescript,rust,go,tensorflow,pytorch,docker,kubernetes,aws,git,linux&perline=6"
-    alt="Tech stack icons showing Python, TypeScript, Rust, Go, TensorFlow, PyTorch, Docker, Kubernetes, AWS, Git, and Linux"
+    src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,rust,go,tensorflow,pytorch,docker,kubernetes,postgres,mongodb,aws,git,linux&perline=8"
+    alt="Tech stack icons showing Python, JavaScript, TypeScript, React, Next.js, Node.js, Rust, Go, TensorFlow, PyTorch, Docker, Kubernetes, PostgreSQL, MongoDB, AWS, Git, and Linux"
   />
 </p>
 
-## Featured Work
+## Holopin Badges
 
 <div align="center">
-  <a href="https://github.com/aviralgarg05/NexumDB">
+  <a href="https://holopin.io/@aviralgarg05">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=aviralgarg05&repo=NexumDB&theme=tokyonight&hide_border=true"
-      alt="Repository card for NexumDB"
-    />
-  </a>
-  <a href="https://github.com/aviralgarg05/agentunit">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=aviralgarg05&repo=agentunit&theme=tokyonight&hide_border=true"
-      alt="Repository card for agentunit"
-    />
-  </a>
-  <a href="https://github.com/aviralgarg05/Basic-Stock-Price-Prediction">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=aviralgarg05&repo=Basic-Stock-Price-Prediction&theme=tokyonight&hide_border=true"
-      alt="Repository card for Basic-Stock-Price-Prediction"
+      src="https://holopin.me/aviralgarg05"
+      alt="Holopin badge board for Aviral Garg"
     />
   </a>
 </div>
