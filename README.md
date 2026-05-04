@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aviral Garg</h1>
 
 <p align="center">
-  <strong>Co-Founder @ Waysorted | Former DRDO Intern | AI/ML Developer and Researcher</strong>
+  <strong>GSoC'26 @apache | Co-Founder @ Waysorted | Former DRDO Intern | AI/ML Developer and Researcher</strong>
 </p>
 
 <p align="center">
